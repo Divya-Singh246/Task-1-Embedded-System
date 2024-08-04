@@ -1,0 +1,13 @@
+const int ledpin = 8;
+void setup() {
+pinMode(ledpin, OUTPUT);
+}
+
+void loop() {
+// Turn the LED on 
+digitalWrite(ledpin, HIGH);
+delay(2000);
+// Turn the LED off
+digitalWrite(ledpin, LOW);
+delay(2000);
+}
