@@ -12,6 +12,7 @@ Mentor - Muzammil Ahmed
 
 ## Overview of the Project
 
+![Screenshot 2024-08-04 160220](https://github.com/user-attachments/assets/705bb405-79b9-4d2a-b1fc-7b09d10db099)
 This project demonstrates the fundamental operation of blinking an LED using an Arduino board. 
 
 ## Objective
