@@ -1,8 +1,13 @@
 Name - DIVYA SINGH
+
 Company -  CODTECH IT SOLUTIONS PVT.LTD
+
 Inter ID :CT6WDS1143
+
 Domain - Embedded System
+
 Duration - 10th July 2024 to 25th August 2024
+
 Mentor - Muzammil Ahmed
 
 ## Overview of the Project
